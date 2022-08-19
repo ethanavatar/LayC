@@ -1,7 +1,9 @@
 # LayC
 
 ~~A garbage collection system for C~~
+
 ~~global arena allocation~~
+
 Indiscriminately free everything
 
 ## Usage (Not Recommended)
